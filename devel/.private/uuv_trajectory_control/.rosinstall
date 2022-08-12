@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tbtk/auv_ws/devel/.private/uuv_trajectory_control/setup.sh

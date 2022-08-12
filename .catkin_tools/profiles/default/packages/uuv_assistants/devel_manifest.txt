@@ -1,0 +1,15 @@
+uuv_simulator/uuv_assistants
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/cmake.lock /home/tbtk/auv_ws/devel/./cmake.lock
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake /home/tbtk/auv_ws/devel/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake /home/tbtk/auv_ws/devel/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/python3/dist-packages/tf_quaternion/__init__.py /home/tbtk/auv_ws/devel/lib/python3/dist-packages/tf_quaternion/__init__.py
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/set_simulation_timer.py /home/tbtk/auv_ws/devel/lib/uuv_assistants/set_simulation_timer.py
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/publish_footprints.py /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_footprints.py
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/create_thruster_manager_configuration /home/tbtk/auv_ws/devel/lib/uuv_assistants/create_thruster_manager_configuration
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/unpause_simulation.py /home/tbtk/auv_ws/devel/lib/uuv_assistants/unpause_simulation.py
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/cmake.lock /home/tbtk/auv_ws/devel/lib/uuv_assistants/cmake.lock
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/publish_world_models.py /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_world_models.py
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/publish_vehicle_footprint.py /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_vehicle_footprint.py
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/create_new_robot_model /home/tbtk/auv_ws/devel/lib/uuv_assistants/create_new_robot_model
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/uuv_message_to_tf /home/tbtk/auv_ws/devel/lib/uuv_assistants/uuv_message_to_tf
+/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/pkgconfig/uuv_assistants.pc /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_assistants.pc

@@ -1,0 +1,6 @@
+devel_space: /home/tbtk/auv_ws/devel
+install: false
+install_space: /home/tbtk/auv_ws/install
+profile: default
+source_space: /home/tbtk/auv_ws/src
+workspace: /home/tbtk/auv_ws

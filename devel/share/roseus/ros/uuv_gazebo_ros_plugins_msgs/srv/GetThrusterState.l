@@ -1,0 +1,1 @@
+/home/tbtk/auv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.l

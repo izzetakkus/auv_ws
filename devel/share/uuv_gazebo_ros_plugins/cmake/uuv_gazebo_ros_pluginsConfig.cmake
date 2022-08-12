@@ -1,0 +1,1 @@
+/home/tbtk/auv_ws/devel/.private/uuv_gazebo_ros_plugins/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig.cmake

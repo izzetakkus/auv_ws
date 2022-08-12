@@ -9,29 +9,21 @@
     -->
 
     <xacro:thruster_macro robot_namespace="${namespace}" thruster_id="0">
-        <origin xyz="0 0 0" rpy="0 0 ${pi}" />
-    </xacro:thruster_macro>
-
-    <xacro:thruster_macro robot_namespace="${namespace}" thruster_id="1">
-        <origin xyz="0 0 0" rpy="0 0 ${pi}" />
-    </xacro:thruster_macro>
-
-    <xacro:thruster_macro robot_namespace="${namespace}" thruster_id="2">
-    <origin xyz="0 0 0" rpy="0 -${0.5*pi} 0" />
+        <origin xyz="-0.53994 0 0" rpy="0 0 ${pi}" />
     </xacro:thruster_macro>
 
     <!-- Instantiate fins, if necessary -->
-    <xacro:fin_macro namespace="${namespace}" fin_id="0">
-      <origin xyz="0 0 0" rpy="0 0 0" />
+    <xacro:fin_macro namespace="${namespace}" fin_id="0" mesh_filename="${red_fin_mesh_file}">
+      <origin xyz="-0.4 0 0.04" rpy="0 0 0" />
     </xacro:fin_macro>
-    <xacro:fin_macro namespace="${namespace}" fin_id="1">
-      <origin xyz="0 0 0" rpy="0 0 0" />
+    <xacro:fin_macro namespace="${namespace}" fin_id="1" mesh_filename="${black_fin_mesh_file}">
+      <origin xyz="-0.4 -0.04 0" rpy="${0.5 * pi} 0 0" />
     </xacro:fin_macro>
-    <xacro:fin_macro namespace="${namespace}" fin_id="2">
-      <origin xyz="0 0 0" rpy="0 0 0" />
+    <xacro:fin_macro namespace="${namespace}" fin_id="2" mesh_filename="${black_fin_mesh_file}">
+      <origin xyz="-0.4 0 -0.04" rpy="${pi} 0 0" />
     </xacro:fin_macro>
-    <xacro:fin_macro namespace="${namespace}" fin_id="3">
-      <origin xyz="0 0 0" rpy="0 0 0" />
+    <xacro:fin_macro namespace="${namespace}" fin_id="3" mesh_filename="${black_fin_mesh_file}">
+      <origin xyz="-0.4 0.04 0" rpy="${-0.5 * pi} 0 0" />
     </xacro:fin_macro>
 
 </robot>

@@ -1,0 +1,1 @@
+/home/tbtk/auv_ws/devel/.private/uuv_thruster_manager/share/roseus/ros/uuv_thruster_manager/srv/GetThrusterCurve.l
