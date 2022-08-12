@@ -1,13 +1,13 @@
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/tf_quaternion/__init__.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/set_simulation_timer.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_footprints.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/create_thruster_manager_configuration
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/unpause_simulation.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/cmake.lock
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_world_models.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_vehicle_footprint.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/create_new_robot_model
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_assistants/uuv_message_to_tf
-Symlinking /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_assistants.pc
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake, /home/tbtk/auv_ws/devel/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake, /home/tbtk/auv_ws/devel/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/python3/dist-packages/tf_quaternion/__init__.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/tf_quaternion/__init__.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/set_simulation_timer.py, /home/tbtk/auv_ws/devel/lib/uuv_assistants/set_simulation_timer.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/publish_footprints.py, /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_footprints.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/create_thruster_manager_configuration, /home/tbtk/auv_ws/devel/lib/uuv_assistants/create_thruster_manager_configuration)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/unpause_simulation.py, /home/tbtk/auv_ws/devel/lib/uuv_assistants/unpause_simulation.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/cmake.lock, /home/tbtk/auv_ws/devel/lib/uuv_assistants/cmake.lock)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/publish_world_models.py, /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_world_models.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/publish_vehicle_footprint.py, /home/tbtk/auv_ws/devel/lib/uuv_assistants/publish_vehicle_footprint.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/create_new_robot_model, /home/tbtk/auv_ws/devel/lib/uuv_assistants/create_new_robot_model)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/uuv_assistants/uuv_message_to_tf, /home/tbtk/auv_ws/devel/lib/uuv_assistants/uuv_message_to_tf)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_assistants/lib/pkgconfig/uuv_assistants.pc, /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_assistants.pc)

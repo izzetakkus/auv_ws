@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.0.2)
 project(lauv_description)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
-# add_compile_options(-std=c++11)
+add_compile_options(-std=c++11)
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
@@ -111,10 +111,7 @@ catkin_package(
 
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations
-include_directories(
-# include
-# ${catkin_INCLUDE_DIRS}
-)
+
 
 ## Declare a C++ library
 # add_library(${PROJECT_NAME}
@@ -200,3 +197,21 @@ include_directories(
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
+
+find_package(catkin REQUIRED COMPONENTS
+  roscpp
+  rospy
+  uuv_gazebo_ros_plugins_msgs
+  nav_msgs
+  geometry_msgs
+  tf
+)
+
+include_directories(include ${catkin_INCLUDE_DIRS})
+
+INCLUDE_DIRECTORIES(/usr/local/lib)
+LINK_DIRECTORIES(/usr/local/lib)
+
+
+add_executable(publish_speed src/publish_speed.cpp)
+target_link_libraries(publish_speed ${catkin_LIBRARIES})

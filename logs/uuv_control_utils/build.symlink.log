@@ -1,15 +1,15 @@
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_control_utils/cmake/uuv_control_utilsConfig.cmake
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_control_utils/cmake/uuv_control_utilsConfig-version.cmake
-Symlinking /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_control_utils.pc
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/start_circular_trajectory.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_timed_current_perturbation.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/send_waypoint_file.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/start_helical_trajectory.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/trajectory_marker_publisher.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_scalar_parameter.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/cmake.lock
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_thruster_state.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_gm_current_perturbation.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/disturbance_manager.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_thruster_output_efficiency.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_control_utils/apply_body_wrench.py
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/share/uuv_control_utils/cmake/uuv_control_utilsConfig.cmake, /home/tbtk/auv_ws/devel/share/uuv_control_utils/cmake/uuv_control_utilsConfig.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/share/uuv_control_utils/cmake/uuv_control_utilsConfig-version.cmake, /home/tbtk/auv_ws/devel/share/uuv_control_utils/cmake/uuv_control_utilsConfig-version.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/pkgconfig/uuv_control_utils.pc, /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_control_utils.pc)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/start_circular_trajectory.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/start_circular_trajectory.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/set_timed_current_perturbation.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_timed_current_perturbation.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/send_waypoint_file.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/send_waypoint_file.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/start_helical_trajectory.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/start_helical_trajectory.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/trajectory_marker_publisher.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/trajectory_marker_publisher.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/set_scalar_parameter.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_scalar_parameter.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/cmake.lock, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/cmake.lock)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/set_thruster_state.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_thruster_state.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/set_gm_current_perturbation.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_gm_current_perturbation.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/disturbance_manager.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/disturbance_manager.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/set_thruster_output_efficiency.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/set_thruster_output_efficiency.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_control_utils/lib/uuv_control_utils/apply_body_wrench.py, /home/tbtk/auv_ws/devel/lib/uuv_control_utils/apply_body_wrench.py)

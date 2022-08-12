@@ -1,76 +1,76 @@
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetOriginSphericalCoord.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformFromSphericalCoord.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetOriginSphericalCoord.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentModel.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentVelocity.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/uuv_world_ros_plugins_msgs-srv.asd
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformToSphericalCoord.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetCurrentModel.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentDirection.lisp
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/_index.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/_index.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.js
-Symlinking /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.js
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/manifest.l
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.l
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.l
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.l
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.l
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.l
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.l
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.l
-Symlinking /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.l
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-paths.cmake
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig-version.cmake
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordResponse.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoord.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModelResponse.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModelRequest.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModelRequest.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirection.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordResponse.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityRequest.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoord.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordRequest.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModel.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordRequest.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModelResponse.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionRequest.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionResponse.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityResponse.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoord.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordRequest.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocity.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordResponse.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordRequest.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoord.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModel.h
-Symlinking /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordResponse.h
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__init__.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentDirection.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetCurrentModel.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__init__.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentVelocity.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformToSphericalCoord.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformFromSphericalCoord.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentModel.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetOriginSphericalCoord.py
-Symlinking /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetOriginSphericalCoord.py
-Symlinking /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetOriginSphericalCoord.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetOriginSphericalCoord.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformFromSphericalCoord.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformFromSphericalCoord.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetOriginSphericalCoord.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetOriginSphericalCoord.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentModel.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentModel.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentVelocity.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentVelocity.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/uuv_world_ros_plugins_msgs-srv.asd, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/uuv_world_ros_plugins_msgs-srv.asd)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformToSphericalCoord.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformToSphericalCoord.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetCurrentModel.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetCurrentModel.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentDirection.lisp, /home/tbtk/auv_ws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentDirection.lisp)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/_index.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/_index.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/_index.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/_index.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.js, /home/tbtk/auv_ws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.js)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/manifest.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/manifest.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.l, /home/tbtk/auv_ws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.l)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-paths.cmake, /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-paths.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake, /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake, /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig-version.cmake, /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig-version.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordResponse.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordResponse.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoord.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoord.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentModelResponse.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModelResponse.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentModelRequest.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModelRequest.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetCurrentModelRequest.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModelRequest.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentDirection.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirection.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordResponse.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordResponse.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityRequest.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityRequest.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoord.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoord.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordRequest.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordRequest.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentModel.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModel.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordRequest.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordRequest.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetCurrentModelResponse.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModelResponse.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionRequest.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionRequest.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionResponse.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionResponse.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityResponse.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityResponse.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoord.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoord.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordRequest.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordRequest.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentVelocity.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocity.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordResponse.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordResponse.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordRequest.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordRequest.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoord.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoord.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetCurrentModel.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModel.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordResponse.h, /home/tbtk/auv_ws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordResponse.h)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__init__.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__init__.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentDirection.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentDirection.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetCurrentModel.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetCurrentModel.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__init__.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__init__.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentVelocity.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentVelocity.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformToSphericalCoord.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformToSphericalCoord.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformFromSphericalCoord.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformFromSphericalCoord.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentModel.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentModel.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetOriginSphericalCoord.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetOriginSphericalCoord.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetOriginSphericalCoord.py, /home/tbtk/auv_ws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetOriginSphericalCoord.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc, /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc)

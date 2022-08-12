@@ -1,6 +1,6 @@
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_teleop/cmake/uuv_teleopConfig.cmake
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_teleop/vehicle_teleop.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_teleop/finned_uuv_teleop.py
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_teleop/cmake.lock
-Symlinking /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_teleop.pc
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_teleop/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake, /home/tbtk/auv_ws/devel/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_teleop/share/uuv_teleop/cmake/uuv_teleopConfig.cmake, /home/tbtk/auv_ws/devel/share/uuv_teleop/cmake/uuv_teleopConfig.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_teleop/lib/uuv_teleop/vehicle_teleop.py, /home/tbtk/auv_ws/devel/lib/uuv_teleop/vehicle_teleop.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_teleop/lib/uuv_teleop/finned_uuv_teleop.py, /home/tbtk/auv_ws/devel/lib/uuv_teleop/finned_uuv_teleop.py)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_teleop/lib/uuv_teleop/cmake.lock, /home/tbtk/auv_ws/devel/lib/uuv_teleop/cmake.lock)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_teleop/lib/pkgconfig/uuv_teleop.pc, /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_teleop.pc)

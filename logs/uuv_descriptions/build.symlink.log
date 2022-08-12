@@ -1,5 +1,5 @@
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_descriptions/cmake/uuv_descriptionsConfig.cmake
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_descriptions/cmake/uuv_descriptionsConfig-version.cmake
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_descriptions/spawn_model
-Symlinking /home/tbtk/auv_ws/devel/lib/uuv_descriptions/cmake.lock
-Symlinking /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_descriptions.pc
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_descriptions/share/uuv_descriptions/cmake/uuv_descriptionsConfig.cmake, /home/tbtk/auv_ws/devel/share/uuv_descriptions/cmake/uuv_descriptionsConfig.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_descriptions/share/uuv_descriptions/cmake/uuv_descriptionsConfig-version.cmake, /home/tbtk/auv_ws/devel/share/uuv_descriptions/cmake/uuv_descriptionsConfig-version.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_descriptions/lib/uuv_descriptions/spawn_model, /home/tbtk/auv_ws/devel/lib/uuv_descriptions/spawn_model)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_descriptions/lib/uuv_descriptions/cmake.lock, /home/tbtk/auv_ws/devel/lib/uuv_descriptions/cmake.lock)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_descriptions/lib/pkgconfig/uuv_descriptions.pc, /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_descriptions.pc)

@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/tbtk/auv_ws/devel/.private/lauv_description:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/tbtk/auv_ws/devel/.private/lauv_description/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/tbtk/auv_ws/devel/.private/lauv_description/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/tbtk/auv_ws/build/lauv_description'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/tbtk/auv_ws/devel/.private/lauv_description/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/tbtk/auv_ws/src/lauv_description:$ROS_PACKAGE_PATH"

@@ -1,5 +1,5 @@
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake
-Symlinking /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake
-Symlinking /home/tbtk/auv_ws/devel/lib/libuuv_underwater_current_ros_plugin.so
-Symlinking /home/tbtk/auv_ws/devel/lib/libuuv_sc_ros_interface_plugin.so
-Symlinking /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_world_ros_plugins.pc
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake, /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake, /home/tbtk/auv_ws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins/lib/libuuv_underwater_current_ros_plugin.so, /home/tbtk/auv_ws/devel/lib/libuuv_underwater_current_ros_plugin.so)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins/lib/libuuv_sc_ros_interface_plugin.so, /home/tbtk/auv_ws/devel/lib/libuuv_sc_ros_interface_plugin.so)
+Linked: (/home/tbtk/auv_ws/devel/.private/uuv_world_ros_plugins/lib/pkgconfig/uuv_world_ros_plugins.pc, /home/tbtk/auv_ws/devel/lib/pkgconfig/uuv_world_ros_plugins.pc)
