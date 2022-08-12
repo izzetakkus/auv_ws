@@ -63,11 +63,11 @@ double setRPM(ros::NodeHandle _node)
   }
   else
   {
-    thrust = 0.0767 * pow(vel, 3) - 1.545 * pow(vel, 2) + 412.2975 * vel + 38.2948; // Max Thrust 1089
+    thrust = 6.916 * pow(vel, 3) - 38.796 * pow(vel, 2) + 175.211 * vel + 19.086; // Max Thrust 550
   }
 
-  thrust > 1089.0 ? thrust = 1089.0 : thrust = thrust;
-  thrust < -1089.0 ? thrust = -1089.0 : thrust = thrust;
+  thrust > 550.0 ? thrust = 550.0 : thrust = thrust;
+  thrust < -550.0 ? thrust = -550.0 : thrust = thrust;
 
   return -thrust;
 }
